@@ -1,5 +1,5 @@
-# games_web-app
-> Learning Project 1: 5 Games in 1 Web app
+# 5 Games in 1 Web app
+> Learning Project 2
 
 Part of my personal learning projects, this responsive website demonstrates my ability to use:
 - HTML
